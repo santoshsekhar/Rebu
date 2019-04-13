@@ -7,6 +7,7 @@ A user will be able to post a notification if he needs a ride or can give a ride
 
 - This is an iOS phone application developed in Swift language using Xcode
 - DataBase used : Backendless
+- Git version control system
 
 # Developers
 
