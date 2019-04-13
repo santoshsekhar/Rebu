@@ -17,10 +17,10 @@ A user will be able to post a notification if he needs a ride or can give a ride
 
 # Screen shots of application
 
-!(homeScreen)[https://github.com/santoshsekhar/Rebu/blob/master/docs/pic1.png]
+![homeScreen](https://github.com/santoshsekhar/Rebu/blob/master/docs/pic1.png)
 
-!(rideSelect)[https://github.com/santoshsekhar/Rebu/blob/master/docs/pic2.png]
+![rideSelect](https://github.com/santoshsekhar/Rebu/blob/master/docs/pic2.png)
 
-!(postRide)[https://github.com/santoshsekhar/Rebu/blob/master/docs/pic3.png]
+![postRide](https://github.com/santoshsekhar/Rebu/blob/master/docs/pic3.png)
 
-!(rideDetails)[https://github.com/santoshsekhar/Rebu/blob/master/docs/pic4.png]
+![rideDetails](https://github.com/santoshsekhar/Rebu/blob/master/docs/pic4.png)
