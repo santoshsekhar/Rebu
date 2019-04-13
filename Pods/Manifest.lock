@@ -1,0 +1,24 @@
+PODS:
+  - Backendless (5.2.0):
+    - Socket.IO-Client-Swift
+  - Socket.IO-Client-Swift (13.3.1):
+    - Starscream (~> 3.0.2)
+  - Starscream (3.0.6)
+
+DEPENDENCIES:
+  - Backendless
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Backendless
+    - Socket.IO-Client-Swift
+    - Starscream
+
+SPEC CHECKSUMS:
+  Backendless: 57ddb575b2c4b9019e333c5436b227e34670332a
+  Socket.IO-Client-Swift: 79f8f85fa44881838175a20f9bd2c32bef2c9d37
+  Starscream: ef3ece99d765eeccb67de105bfa143f929026cf5
+
+PODFILE CHECKSUM: e09479b82b37b2b4ed14e33962d0f86fe7b68d8d
+
+COCOAPODS: 1.5.3
