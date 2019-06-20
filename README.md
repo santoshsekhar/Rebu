@@ -9,9 +9,6 @@ A user will be able to post a notification if he needs a ride or can give a ride
 - DataBase used : Backendless
 - Git version control system
 
-# Developers
-
-- Santosh Sekhar Muchkur Bogarajula
 
 
 # Screen shots of application
