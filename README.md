@@ -12,9 +12,7 @@ A user will be able to post a notification if he needs a ride or can give a ride
 # Developers
 
 - Santosh Sekhar Muchkur Bogarajula
-- Vamshi Raj Jennaikode
-- Kelsie Dibben
-- Bharadwaj Dasari
+
 
 # Screen shots of application
 
